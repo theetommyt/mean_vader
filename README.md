@@ -1,2 +1,3 @@
-# vader_getting_mean
-Vader gets MEAN
+## WDI Darth Vader
+
+**Getting MEAN** with Node, Express, MongoDB, and Angular
